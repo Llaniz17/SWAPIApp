@@ -11,7 +11,7 @@ Aplicación en React Native CLI que consume la API de Star Wars.
 ## 🔧 Instalación
 1. Clona el repositorio:
    ```
-   git clone ""
+   git clone https://github.com/Llaniz17/SWAPIApp.git
    ```
 
 2. Instala dependencias:
@@ -28,3 +28,6 @@ Aplicación en React Native CLI que consume la API de Star Wars.
    ```
    npm test
    ```
+
+   
+@Llaniz
