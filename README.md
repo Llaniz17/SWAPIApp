@@ -29,5 +29,12 @@ Aplicación en React Native CLI que consume la API de Star Wars.
    npm test
    ```
 
+## Búsqueda por personaje
+![image](https://github.com/user-attachments/assets/fb1b79e8-b167-46cb-8e9b-64f45170294f)
+
+## Filtro por categoría (Planeta)
+![image](https://github.com/user-attachments/assets/3fb76c75-6462-4fb5-bc2e-13ed8bc47f18)
+
+
    
 @Llaniz
